@@ -1,0 +1,160 @@
+#maindiv{
+    width: 30%;
+    height: 600px;
+    border: 1px solid black;
+    text-align: center;
+    display: grid;
+    margin: auto;
+    margin-top: 20px;
+}
+#maindiv h1{
+    font-size: large;
+}
+#maindiv input{
+    width: 90%;
+    margin: auto;
+    height: 40px;
+    padding-left: 10px;
+}
+#maindiv select{
+    width: 93%;
+    margin: auto;
+    height: 45px;
+    margin-top: -10px;
+    font-size: 15px;
+}
+#eyePassword{
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 0;
+    margin-left: 340px;
+    margin-top: -11%;
+}
+#check{
+    display: flex;
+    justify-content:space-between;
+    cursor: pointer;
+    width: 90%;
+    margin: auto;
+    margin-top: -3%;
+}
+
+#check label input{
+    width: 20px;
+    margin-left: 10px;
+}
+
+#check label{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+#check label p{
+    margin-right: -50px;
+}
+
+#button{
+    text-align: center;
+}
+#button button{
+    width: 90%;
+    height: 40px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: larger;
+
+}
+#button p{
+    width: 90%;
+    text-align: center;
+
+}
+#button p:nth-child(2){
+    margin-left: 15px;
+    text-align: justify;
+}
+
+
+
+@media only screen and (min-device-width: 400px) and (max-device-width: 1000px){
+    body{
+        width:100%;
+    }
+
+    #maindiv{
+        width: 80%;
+        height: 600px;
+        border: 1px solid black;
+        text-align: center;
+        display: grid;
+        margin: auto;
+        margin-top: 20px;
+    }
+    #maindiv h1{
+        font-size: large;
+    }
+    #maindiv input{
+        width: 90%;
+        margin: auto;
+        height: 40px;
+        padding-left: 10px;
+    }
+    #maindiv select{
+        width: 93%;
+        margin: auto;
+        height: 45px;
+        margin-top: -10px;
+        font-size: 15px;
+    }
+    #eyePassword{
+        font-size: 20px;
+        cursor: pointer;
+        z-index: 0;
+        margin-left: 340px;
+        margin-top: -11%;
+    }
+    #check{
+        display: flex;
+        justify-content:space-between;
+        cursor: pointer;
+        width: 90%;
+        margin: auto;
+        margin-top: -3%;
+    }
+    
+    #check label input{
+        width: 20px;
+        margin-left: 10px;
+    }
+    
+    #check label{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    #check label p{
+        margin-right: -50px;
+    }
+    
+    #button{
+        text-align: center;
+    }
+    #button button{
+        width: 90%;
+        height: 40px;
+        cursor: pointer;
+        background-color: black;
+        color: white;
+        font-size: larger;
+    
+    }
+    #button p{
+        width: 90%;
+        text-align: center;
+    
+    }
+    #button p:nth-child(2){
+        margin-left: 15px;
+        text-align: justify;
+    }
+    
+}

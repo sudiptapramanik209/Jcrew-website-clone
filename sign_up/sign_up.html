@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sign_up</title>
+    <link rel="stylesheet" href="./sign_up.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+</head>
+<body>
+
+<div id="maindiv">
+    
+<h1>Sign up</h1>
+<input type="text" placeholder="Email Address" id="username">
+<input type="password" placeholder="Password*" id="password">
+<i class="far fa-eye" id="eyePassword" onclick="show()"></i>
+
+<select name="country" id="country" placeholder="country*">
+    <option value="india">india</option>
+    <option value="uk">uk</option>
+    <option value="united stade">united stade</option>
+    <option value="egypt">egypt</option>
+    <option value="france">france</option>
+    <option value="finland">finland</option>
+    <option value="">others</option>
+  </select>
+
+<div id="check">
+    <label>
+        <input type="checkbox" checked="checked" name="remember"> 
+        <p>Remember me</p>
+    </label>
+
+</div>
+<div id="button" onclick="add_data()">
+    <button>CREATE AN ACCOUNT</button>
+    <P>By clicking "Create an Account", you agree to our <u>Terms of Use</u> and <u>Privacy Policy</u>, including the <u>Use of Cookies</u> and the transfer of your personal information to the United States, a jurisdiction that may not provide an equivalent level of data protection to the laws in your home country.</P>
+    <hr>
+    <p>Already have an account?<span><a href="../sign-in/sign_in.html">Sign In</a></span></p>
+
+</div>
+
+</div>
+</body>
+</html>
+<script src="./sign_up.js"></script>

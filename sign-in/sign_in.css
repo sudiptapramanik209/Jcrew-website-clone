@@ -1,0 +1,134 @@
+#maindiv{
+    width: 30%;
+    height: 500px;
+    border: 1px solid black;
+    text-align: center;
+    display: grid;
+    margin: auto;
+    margin-top: 50px;
+}
+#maindiv h1{
+    font-size: large;
+}
+#maindiv input{
+    width: 90%;
+    margin: auto;
+    height: 40px;
+    padding-left: 10px;
+}
+#eyePassword{
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 0;
+    margin-top: -11%;
+    margin-left: 300px;
+}
+#check{
+    display: flex;
+    justify-content:space-between;
+    cursor: pointer;
+    width: 90%;
+    margin: auto;
+    margin-top: -3%;
+}
+#check label{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+#check label p{
+    margin-right: -50px;
+}
+#check label input{
+    width: 20px;
+
+}
+#button{
+    text-align: center;
+}
+#button button{
+    width: 90%;
+    height: 40px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: larger;
+
+}
+#button p{
+    width: 90%;
+    text-align: center;
+
+}
+#button p:nth-child(2){
+    margin-left: 15px;
+}
+
+
+@media only screen and (min-device-width: 100px) and (max-device-width: 900px){
+    body{
+        width:100%;
+    }
+
+    #maindiv{
+        width: 70%;
+        height: 800px;
+        border: 1px solid black;
+        text-align: center;
+        margin-top: 50px;
+    }
+    #maindiv h1{
+        font-size: large;
+        text-align: center;
+    }
+    #maindiv input{
+        width: 90%;
+        margin: auto;
+        height: 40px;
+    }
+    #eyePassword{
+        font-size: 20px;
+        cursor: pointer;
+        z-index: 0;
+        margin-top: -11%;
+        margin-left: 300px;
+    }
+    #check{
+        display: flex;
+        justify-content:space-between;
+        cursor: pointer;
+        width: 90%;
+        margin: auto;
+        margin-top: -3%;
+    }
+    #check label{
+        width:100px;
+        display: flex;
+        justify-content: space-between; 
+        
+    }
+    #check label input{
+        width: 20px;
+    
+    }
+    #button{
+        text-align: center;
+    }
+    #button button{
+        width: 90%;
+        height: 40px;
+        cursor: pointer;
+        background-color: black;
+        color: white;
+        font-size: larger;
+    
+    }
+    #button p{
+        width: 90%;
+        text-align: center;
+    
+    }
+    #button p:nth-child(2){
+        margin-left: 15px;
+    }
+    
+}

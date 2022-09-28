@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sign_in</title>
+    <link rel="stylesheet" href="./sign_in.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+</head>
+<body>
+
+<div id="maindiv">
+<h1>Sign In</h1>
+<input type="text" placeholder="Email Address" id="username">
+<input type="password" placeholder="Password*" id="password">
+<i class="far fa-eye" id="eyePassword" onclick="show()"></i>
+
+<div id="check">
+    <label>
+        <input type="checkbox" checked="checked" name="remember"> 
+        <p>Remember me</p>
+    </label>
+    <p><a href="#">Forgot Password?</a></p>
+
+</div>
+<div id="button" onclick="add()">
+    <button>SIGN IN NOW</button>
+    <P>This site is protected by reCAPTCHA and the Google <u>Privacy Policy</u> and <u>Terms of Service </u>apply.</P>
+    <hr>
+    <p>Don’t have an account? <span><a href="../sign_up/sign_up.html">Sign up now</a></span></p>
+
+</div>
+
+
+
+</div>
+</body>
+</html>
+<script src="./sign_in.js"></script>
