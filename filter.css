@@ -1,0 +1,53 @@
+#promoheader{
+    
+    height: 60px;
+    width: 100%;
+    margin: auto;
+    display:flex;
+}
+#promoheader>span{
+    text-align:center;
+    align-items:center;
+    margin:auto;
+    vertical-align:center;
+}
+#upperbuttons{
+    height:60px;
+    width: 95%;
+    font-size: 15px;
+    margin: auto;
+    text-decoration: none;
+}
+#upperbuttons>a{
+    text-decoration: none;
+    color:black;
+}
+#bigletters{
+    height: 134px;
+    width: 95%;
+    margin: auto;
+    text-align: center;
+}
+#letterbox{
+    height: 134px;
+    width: 24.5%;
+    margin: auto;
+    font-size: 74.8px;
+    letter-spacing: 0.3px;
+    line-height: 67.34px;
+}
+#october{
+    font-size: 49.78px;
+    line-height: 44.8px;
+}
+#filsortbtnwrapper{
+    border: 1px solid red;
+    height:36px;
+    width: 95%;
+    margin: auto;
+}
+.dropdown[aria-expanded="true"]::after {
+    border-color: transparent transparent white;
+    top: 40%;
+  }
+  
