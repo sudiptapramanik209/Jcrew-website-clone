@@ -12,7 +12,11 @@ h1{
 
 #navbar{
     /* border: 1px solid red; */
-    overflow: hidden;
+    position:fixed;
+    top: 0px;
+    width: 100%;
+    overflow:hidden;
+    /* z-index: -1; */
     height: 60px;
     color: rgb(85, 81, 81);
     /* background-color: whitesmoke; */
@@ -36,11 +40,13 @@ h1{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 15px;
+    font-weight: bold;
 }
 #navbar a:hover{
+    /* color: aqua; */
     margin-bottom: -1%;
-    border-bottom:3px solid black;
+    border-bottom:5px solid black;
 }
 #left>div>p:nth-child(1){
     font-weight: bolder;
@@ -92,6 +98,7 @@ textarea:focus, input:focus{
     background-color: whitesmoke;
     display: flex;  
     justify-content: space-between;
+    margin-top: 60px;
     /* height:1000px; */
 }
 #left{
@@ -108,6 +115,9 @@ textarea:focus, input:focus{
     margin-right: 8%;
     width:30%;
     /* height:500px; */
+}
+#footer_right>p:nth-child(1){
+    font-weight: bolder;
 }
 #footer_input{
     display: flex;
@@ -168,4 +178,55 @@ textarea:focus, input:focus{
     margin-left: 5%;
     color: rgb(148, 139, 139);
     margin-top: -1%;
+}
+#main{
+    display: flex;
+    /* display: none; */
+    /* position:rela/tive; */
+    margin-top: 60px;
+    /* background-color: whitesmoke; */
+    justify-content: space-around;
+    width:100%;
+    margin-left: 11%;
+    /* border: 1px solid red; */
+}
+/* .dropdown {
+    display: inline-block;
+    position: relative
+} */
+
+#new{
+    width: 30%;
+}
+#temp{
+    justify-content: space-between;
+    display: flex;
+}
+#shop{
+    width:50%;
+}
+#bookmark{
+    /* display: flex; */
+    margin-left: 10%;
+   
+    width: 100%;
+}
+#bookmark>div{
+    display: flex;
+}
+#bookmark>div>img{
+    display: flex;
+    width: 30%;
+    margin-right: 5%;
+   /* height: 100%; */
+    /* justify-content: space-between; */
+}
+/* #navbar:hover #main{
+    display: block;
+} */
+.check:hover .check>button{
+    display: block;
+    width:100%;
+    background-color: aqua;
+    border: 1px solid red;
 }
