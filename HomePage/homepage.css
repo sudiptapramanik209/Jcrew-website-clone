@@ -324,7 +324,7 @@ body {
   height: auto;
   margin: auto;
   margin-top: 10px;
-  margin-bottom: 60px;
+  margin-bottom: 90px;
 }
 
 #main5 > #section1 {
@@ -447,6 +447,7 @@ body {
   margin-left: 0px;
 }
 
+/* <!-- main-6 --> */
 #main6 {
   /* border: 1px solid red; */
   width: 80%;
@@ -468,7 +469,7 @@ body {
 }
 #sideRowBoxes {
   position: relative;
-  width: 15%;
+  width: 15.5%;
   margin: auto;
 }
 .heart {
@@ -500,7 +501,7 @@ body {
 }
 
 #sideRowBoxes:hover .overlay {
-  opacity: 1;
+  opacity: 0.8;
 }
 
 .text {
@@ -536,4 +537,105 @@ body {
   font-weight: bold;
   margin: 30px 5px;
   /* padding: 5px 0; */
+}
+
+/* <!-- main-7 --> */
+#insta-text {
+  text-align: center;
+  font-family: "freight-big-pro", Times, serif;
+  font-weight: lighter;
+  font-size: 24px;
+  width: 100%;
+}
+#insta-text > h2 {
+  margin-bottom: -10px;
+  font-weight: lighter;
+}
+
+#main7 {
+  border: 1px solid red;
+  height: 600px;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+/* <!-- main-8 --> */
+
+#main8 {
+  /* border: 1px solid red; */
+  border-bottom: 1px solid rgb(210, 207, 207);
+  height: 435px;
+  width: 100%;
+  padding-bottom: 25px;
+}
+
+#main8 > h1 {
+  text-align: center;
+  font-family: "freight-big-pro", Times, serif;
+  font-weight: lighter;
+  font-size: 34px;
+}
+#main8 > div {
+  display: flex;
+  /* border: 1px solid green; */
+  width: 98%;
+  height: 80%;
+  margin: auto;
+}
+
+#main8 > div > .products {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid red; */
+  width: 16%;
+  height: 96%;
+  margin: auto;
+}
+
+.products > img {
+  width: 100%;
+  height: 100%;
+}
+.products > a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000000;
+  font-size: 12px;
+  text-decoration: none;
+  border-bottom: 2px solid #000000;
+  padding: 8px 0px;
+  font-weight: 600;
+}
+
+#connects {
+  /* border: 1px solid red; */
+  width: 100%;
+  height: 50px;
+}
+
+#connects > div {
+  /* border: 1px solid blue; */
+  width: 25%;
+  display: flex;
+  margin: auto;
+  margin-top: 8px;
+}
+
+#connects > div > a {
+  /* border: 1px solid red; */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  color: #000000;
+  margin: auto;
+}
+#connects > div > a > i {
+  padding: 12px 10px;
+  transform: scale(1.2);
+}
+
+#connects > div > a:hover {
+  border-bottom: 1px solid #000000;
 }
