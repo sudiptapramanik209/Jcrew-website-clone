@@ -853,6 +853,16 @@ const women_bigPoster = [
         title:"Perfect-fit button turtleneck",
         catBtn:"Shop this look"
     },
+    {              
+        image:"https://www.jcrew.com/brand_creative/2022/202210-Oct/w_newarrivals/2022oct_0927_w_na_img4.jpg",
+        title:"Scalloped popover top in Liberty® Flower Market fabric & high-rise crepe trouser",
+        catBtn:"Shop this look"
+    },
+    {              
+        image:"https://www.jcrew.com/brand_creative/2022/202210-Oct/w_newarrivals/2022oct_0927_w_na_img5.jpg",
+        title:"Collection lady jacket in Italian wool bouclé & ’90s wide-leg jean",
+        catBtn:"Shop this look"
+    },
 
 ]
 
@@ -863,7 +873,7 @@ const women_bigPoster = [
 
 const men_bigPoster = [
     {            
-        image:"https://www.jcrew.com/brand_creative/2022/202210-Oct/m_newarrivals/2022oct_0927_m_na_img1.jpg",
+        image:"https://www.jcrew.com/brand_creative/2022/202210-Oct/m_newarrivals/2022oct_0927_m_na_img0.jpg",
         title:"Dock peacoat, wool-blend sweater-vest & single-pleat 10-wale corduroy pant",
         catBtn:"Shop these looks"
     },
@@ -882,7 +892,16 @@ const men_bigPoster = [
         title:"Bucket hat in wool blend & Irish Donegal wool cardigan with Italian suede",
         catBtn:"Shop these looks"
     },
-   
+    {              
+        image:"https://www.jcrew.com/brand_creative/2022/202210-Oct/m_newarrivals/2022oct_0927_m_na_img4.jpg",
+        title:"Nordic puffer jacket with PrimaLoft® & Nordic sherpa fleece jacket",
+        catBtn:"Shop these looks"
+    },
+    {              
+        image:"https://www.jcrew.com/brand_creative/2022/202210-Oct/m_newarrivals/2022oct_0927_m_na_img5.jpg",
+        title:"Single-pleat 10-wale corduroy pants",
+        catBtn:"Shop Now"
+    },
 ]
 
 
