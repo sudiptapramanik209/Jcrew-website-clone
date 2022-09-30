@@ -1,4 +1,15 @@
-let instaSection = document.getElementById("main7");
+import { navbar } from "../components/navbar.js";
+import { footer } from "../components/footer.js";
+
+let navbar_div = document.getElementById("navbar");
+navbar_div.innerHTML = navbar();
+
+//console.log("navbar_div:", navbar_div);
+
+let footer_div = document.getElementById("footer-section");
+footer_div.innerHTML = footer();
+
+//console.log("navbar_div:", footer_div);
 
 let slideIndex = 1;
 showSlides(slideIndex);
@@ -29,6 +40,6 @@ function showSlides(n) {
     dots[i].className = dots[i].className.replace(" active", "");
   }
   slides[slideIndex - 1].style.display = "flex";
-  dots[slideIndex - 1].className += " active";
+  //   dots[slideIndex - 1].className += " active";
   captionText.innerHTML = dots[slideIndex - 1].alt;
 }

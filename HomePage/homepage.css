@@ -5,13 +5,13 @@ body {
 
 #navbar {
   /* border: 1px solid red; */
-  height: 60px;
+
   font-size: 30px;
   text-align: center;
 }
 
 #container {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   /* font-family: Abyssinica SIL, Arial, sans-serif; */
   /* font-family: "Barlow Semi Condensed", sans-serif; */
   /* font-family: "Montserrat", sans-serif; */
@@ -29,6 +29,7 @@ body {
   height: 70px;
   margin: auto;
   font-family: "Poppins", sans-serif;
+  margin-top: 61px;
 }
 
 /* <!-- main-1 --> */
