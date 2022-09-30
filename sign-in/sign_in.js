@@ -41,7 +41,7 @@ const add = () => {
           flag = true;
           alert("Login Successfully Completed");
           localStorage.setItem("flag", JSON.stringify(flag));
-          return (window.location.href = "../HomePage/homepage.html");
+          return (window.location.href = "../HomePage/index.html");
         } else {
           flag = false;
         }
