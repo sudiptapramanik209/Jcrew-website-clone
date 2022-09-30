@@ -281,3 +281,15 @@ textarea:focus, input:focus{
             /* width:100%; */
             margin-top: 5%;
        }
+
+       p{
+        cursor:pointer;
+       }
+       #sign{
+        /* text-align: center; */
+        /* border: 1px solid darkred; */
+        /* padding-bottom:; */
+       }
+       h3{
+        margin-top: 2%;
+       }
