@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="./slider.css">
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="../sign-in/sign_in.css">
     
     <link
       href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&family=Montserrat:ital,wght@0,400;0,500;1,300&family=Poppins:wght@600&display=swap"
@@ -27,6 +28,35 @@
   </head>
   <body>
     <div id="navbar"></div>
+
+    <div class="model">
+      <div id="maindiv">
+          <h1>Sign In</h1>
+          <input type="text" placeholder="Email Address" id="username">
+          <input type="password" placeholder="Password*" id="password">
+          <i class="far fa-eye" id="eyePassword" onclick="show()"></i>
+          
+          <div id="check">
+              <label>
+                  <input type="checkbox" checked="checked" name="remember"> 
+                  <p>Remember me</p>
+              </label>
+              <p><a href="#">Forgot Password?</a></p>
+          
+          </div>
+          <div id="button">
+              <button onclick="add()">SIGN IN NOW</button>
+              <P>This site is protected by reCAPTCHA and the Google <u>Privacy Policy</u> and <u>Terms of Service </u>apply.</P>
+              <hr>
+              <p>Don’t have an account? <a href="../sign_up/sign_up.html"><span>Sign up now</span></a></p>
+          
+          </div>
+          
+          
+          
+          </div>
+  
+  </div>
 
     <div id="container">
       <!-- first-text -->
@@ -478,6 +508,8 @@
   </body>
 </html>
 <script type="module" src="./homepage.js"></script>
+
+<script src="../sign-in/sign_in.js"></script>
 
 
 
