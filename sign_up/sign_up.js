@@ -31,7 +31,7 @@ if (
   };
   signup.push(obj);
   localStorage.setItem("signup", JSON.stringify(signup));
-  window.location.href = "../sign-in/sign_in.html";
+  window.location.href = "../HomePage/homepage.html";
 }
 }
 //console.log(signup);

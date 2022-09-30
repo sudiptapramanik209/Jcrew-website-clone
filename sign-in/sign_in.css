@@ -1,12 +1,25 @@
+.model{
+  display: none;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.1); /* Black w/ opacity */
+}
+
 #maindiv {
-  width: 20%;
+  width: 30%;
   height: 500px;
   /* border: 1px solid black; */
   text-align: center;
   display: grid;
   margin: auto;
   margin-top: 50px;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  background-color:#fefefe;
 }
 #maindiv h1 {
   font-size: large;
@@ -21,7 +34,7 @@
   font-size: 20px;
   cursor: pointer;
   z-index: 0;
-  margin-top: -8%;
+  margin-top: -11%;
   margin-left: 82%;
 }
 #check {

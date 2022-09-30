@@ -118,7 +118,10 @@ const navbar = () => {
       <i id="icon" class="fa-solid fa-magnifying-glass"></i>
       <input id="search" type="text" placeholder="Search J.Crew" />
     </div>
-    <h3 id="sign"> <a href="../sign-in/sign_in.html">Sign In</a> </h3>
+    <button onclick="document.querySelector('.model').style.display='block'" style="width:auto;">
+    <h3 id="sign">Sign In</h3>
+    </button>
+    
     <img id="cart" src="../styles/img/shopping-bag.gif" alt="" srcset="" />
     <!-- <i class="fa-sharp fa-solid fa-bag-shopping"></i>
         <i class="fa-regular fa-bag-shopping"></i>
