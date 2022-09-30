@@ -11,6 +11,8 @@
 }
 
 #maindiv {
+  font-family: Arial;
+  font-size: 17px;
   width: 30%;
   height: 500px;
   /* border: 1px solid black; */
