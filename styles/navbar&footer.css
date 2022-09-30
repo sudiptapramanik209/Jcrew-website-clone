@@ -12,11 +12,17 @@ h1{
 
 #navbar{
     /* border: 1px solid red; */
-    overflow: hidden;
-    height: 60px;
+    position:absolute;
+    top:0;
+    width: 100%;
+    /* overflow:hidden; */
+    /* z-index: -1; */
+    /* height: 60px; */
     color: rgb(85, 81, 81);
     /* background-color: whitesmoke; */
     display: flex;
+    /* margin-top: 1%; */
+    /* z-index: 1; */
     align-items: center;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     /* font-family:"soleil, Helvetica, Arial, sans-serif"; */
@@ -33,21 +39,24 @@ h1{
     float: left;
     display: block;
     color:black;
-    text-align: center;
+    /* text-align: center; */
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 15px;
+    font-weight: bold;
 }
 #navbar a:hover{
-    margin-bottom: -1%;
-    border-bottom:3px solid black;
+    /* color: aqua; */
+    margin-bottom: -2%;
+    border-bottom:2px solid black;
 }
 #left>div>p:nth-child(1){
     font-weight: bolder;
 }
 #right{
     display: flex;
-    align-items: center;
+    height:40px;
+    /* align-items: center; */
     margin-left: 11%;
     /* border: 1px solid blue; */
     width:150%;
@@ -92,6 +101,7 @@ textarea:focus, input:focus{
     background-color: whitesmoke;
     display: flex;  
     justify-content: space-between;
+    margin-top: 60px;
     /* height:1000px; */
 }
 #left{
@@ -108,6 +118,9 @@ textarea:focus, input:focus{
     margin-right: 8%;
     width:30%;
     /* height:500px; */
+}
+#footer_right>p:nth-child(1){
+    font-weight: bolder;
 }
 #footer_input{
     display: flex;
@@ -169,3 +182,114 @@ textarea:focus, input:focus{
     color: rgb(148, 139, 139);
     margin-top: -1%;
 }
+
+/* .dropdown {
+    display: inline-block;
+    position: relative
+} */
+
+#new{
+    /* display:flex; */
+    width: 100%;
+}
+#temp{
+    justify-content: space-between;
+    display: flex;
+}
+#shop{
+    width:50%;
+}
+#bookmark{
+    /* display: flex; */
+    margin-left: 10%;
+   
+    width: 100%;
+}
+#bookmark>div{
+    display: flex;
+}
+#bookmark>div>img{
+    display: flex;
+    width: 30%;
+    margin-right: 5%;
+   /* height: 100%; */
+    /* justify-content: space-between; */
+}
+
+.dropdown-content {
+    /* display:none;
+    display: flex;
+    width:100%; */
+    /* margin-top: 20%; */
+    /* margin-top: 10%;
+    margin-left: -30%; */
+
+    /* background-color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+    /* margin-top: -35%; */
+    /* margin-right:50%;  */
+
+    display: none;
+  /* position: absolute; */
+  /* background-color: #f1f1f1; */
+  /* min-width: 170px; */
+  /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  /* z-index: 1; */
+  
+    /* padding: 30px 0px; */
+    /* padding-left: 100px; */
+    /* padding-right: 150px; */
+    
+    }
+
+    .dropdown-content a {
+        color: gray;
+        /* padding: 4px; */
+        text-decoration: none;
+        /* margin-left: 50%; 
+        width: 250px; */
+        /* border: 1px solid red; */
+    
+        /* display: block;
+        }
+        
+        /* Change color of dropdown links on hover */
+        /* #dropdown-content a:hover {
+        background-color:transparent;
+        color:rgb(231, 43, 43);
+    
+        
+        
+        }     */
+    }
+        /* Show the dropdown menu on hover */
+        .dropdown:hover>.dropdown-content {
+            display: flex;
+            background-color: white;
+        /* width: 1500px; */
+        /* display: grid; */
+        /* grid-template-columns: repeat(2,550px);
+        grid-template-rows: repeat(7,40px);
+        /* border: 1px solid black; */
+        /* position:absolute;
+        left:-100px; */
+        }
+    
+        
+        .dropdown-content{
+            position:absolute;
+            /* width:100%; */
+            margin-top: 5%;
+       }
+
+       p{
+        cursor:pointer;
+       }
+       #sign{
+        /* text-align: center; */
+        /* border: 1px solid darkred; */
+        /* padding-bottom:; */
+       }
+       h3{
+        margin-top: 2%;
+       }
