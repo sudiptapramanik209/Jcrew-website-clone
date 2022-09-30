@@ -122,7 +122,7 @@ const navbar = () => {
     <h3 id="sign">Sign In</h3>
     </button>
     
-    <img id="cart" src="../styles/img/shopping-bag.gif" alt="" srcset="" />
+    <img id="cart" src="./styles/img/shopping-bag.gif" alt="" srcset="" />
     <!-- <i class="fa-sharp fa-solid fa-bag-shopping"></i>
         <i class="fa-regular fa-bag-shopping"></i>
         <i class="fa-regular fa-bag-shopping"></i> -->
