@@ -31,7 +31,7 @@ if (
   };
   signup.push(obj);
   localStorage.setItem("signup", JSON.stringify(signup));
-  window.location.href = "../HomePage/homepage.html";
+  window.location.href = "./index.html";
 }
 }
 //console.log(signup);
