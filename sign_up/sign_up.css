@@ -9,6 +9,8 @@
     background-color: rgba(0,0,0,0.1); /* Black w/ opacity */
   }
 #maindiv1{
+    font-family: Arial;
+    font-size: 17px;
     width: 30%;
     height: 600px;
     /* border: 1px solid black; */
