@@ -90,7 +90,7 @@ const navbar = () => {
     <a class="drop_btn" href="">Stories</a>
     <div class="dropdown-content">
       <div id="new">
-        <h3>STYLEs</h3>
+        <h3>STYLES</h3>
 
         <p>Introducing Brendon Babenzien</p>
         <p>Sporting life with Row New York</p>
@@ -118,7 +118,7 @@ const navbar = () => {
       <i id="icon" class="fa-solid fa-magnifying-glass"></i>
       <input id="search" type="text" placeholder="Search J.Crew" />
     </div>
-    <button onclick="document.querySelector('.model').style.display='block'" style="width:auto;">
+    <button id="sign_btn" onclick="document.querySelector('.model').style.display='block'" style="width:auto;">
     <h3 id="sign">Sign In</h3>
     </button>
     
