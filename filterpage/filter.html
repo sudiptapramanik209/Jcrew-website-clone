@@ -1,37 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="filter.css">
-    <title>fliter</title>
-</head>
-<body>
-    <div id="promoheader"><span>Have a question? We can help</span></div>
-    <div id="upperbuttons"><a href="index.html">Home</a>/<a id="pagereference"></a></div>
-    <div id="bigletters">
-        <div id="letterbox">
-            <span id="october">The October</span>
-            Collection
-        </div>
-    </div>
-<div id="filsortbtnwrapper">
-    <div id="filter">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    
+    <title>J.Crew: Clothes, Shoes & Accessories For Women, Men & Kids</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="../icons/title icon.jpg"
+    />
+    <link rel="stylesheet" href="../index.css" />
+    <link rel="stylesheet" href="../slider.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="../sign-in/sign_in.css">
+    <link rel="stylesheet" href="./filter.css">
+    
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&family=Montserrat:ital,wght@0,400;0,500;1,300&family=Poppins:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles/navbar&footer.css">
+    <script
+    src="https://kit.fontawesome.com/24c494a6b6.js"
+    crossorigin="anonymous"
+  ></script>
+  </head>
+  <body>
+    <div id="navbar"></div>
+
+    <!-- sign-up page -->
+    <div class="model" id="id01">
+      <div id="maindiv">
+          <h1>Sign In</h1>
+          <input type="text" placeholder="Email Address" id="username">
+          <input type="password" placeholder="Password*" id="password">
+          <i class="far fa-eye" id="eyePassword" onclick="show()"></i>
+          
+          <div id="check">
+              <label>
+                  <input type="checkbox" checked="checked" name="remember"> 
+                  <p>Remember me</p>
+              </label>
+              <p><a href="#">Forgot Password?</a></p>
+          
           </div>
-
+          <div id="button">
+              <button onclick="add()">SIGN IN NOW</button>
+              <P>This site is protected by reCAPTCHA and the Google <u>Privacy Policy</u> and <u>Terms of Service </u>apply.</P>
+              <hr>
+              <p>Don’t have an account? <a href="./sign_up/sign_up.html"><span>Sign up now</span></a></p>
+          
+          </div>
+          
+          
+          
+          </div>
+  
     </div>
-    <div id="sort">
-        <select name="" id="sort">
-            <option value="">Featured</option>
-            <option value="">Price:Low - High</option>
-            <option value="">Price: High - Low</option>
-            <option value="">Top Rated</option>
-            <option value="">New Arrival</option>
+    
+    <div id="mid_container">
+      <!-- first-text -->
+      <div id="first-text">Have a question? We can help.*</div>
 
+      <!-- heading -->
+      <div id="heading">
+        The October <br />
+        <p>Collection</p>
+      </div>
+
+      <!-- show filter-->
+      <div>
+        <select id="showFilter">
+          <option value="Featured">Featured</option>
+          <option value="Low-High">Price: Low - High</option>
+          <option value="High-Low">Price: High - Low</option>
+          <option value="TopRated">Top Rated</option>
+          <option value="NewArrival">New Arrival</option>
         </select>
+      </div>
     </div>
-</div>
-</body>
+
+   
+    <div id="connects">
+          <div>
+            <a href="#"><i class="fa-brands fa-twitter"></i>@jcew_help</a>
+            <a href=""><i class="fa-solid fa-phone"></i>1 434 385 5775</a>
+            <a href="#"><i class="fa-sharp fa-solid fa-envelope"></i>Email Us</a>
+          </div>
+    </div>
+    </div>
+
+    <div id="footer-section"></div>
+  </body>
 </html>
-<script src="filter.js"></script>
+<script type="module" src="../index.js"></script>
+
+<script src="../sign-in/sign_in.js"></script>
+
+
+
+
