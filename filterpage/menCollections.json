@@ -1,0 +1,264 @@
+[
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BK570_WB2192_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BK570_GY5267?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "black": "https://www.jcrew.com/s7-img-facade/BK570_WB2192?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+
+    "title": "Dock peacoat in wool",
+    "price": "INR 47,673",
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/BK570_GY5267_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BK570_WB2192_sw?$pdp_sw20$"
+    }
+  },
+
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BK291_WT0002?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+
+      "white": "https://www.jcrew.com/s7-img-facade/BF789_WT0002?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BK291_WT0002?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+
+    "title": "Relaxed secret Wash cotton poplin shirt",
+    "price": "INR 12,261",
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/BF789_WT0002_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BK291_WT0002_sw?$pdp_sw20$"
+    }
+  },
+
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BJ522_PR5265_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BJ522_PR5265?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "brown": "https://www.jcrew.com/s7-img-facade/BJ522_HT1794?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+
+      "black": "https://www.jcrew.com/s7-img-facade/BJ522_HT1793?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "NEW",
+    "title": "Relaxed crewneck sweater in Scottish lambswool",
+    "price": "INR 25,755",
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/BJ522_PR5265_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BJ522_HT1794_sw?$pdp_sw20$",
+
+      "black": "https://www.jcrew.com/s7-img-facade/BJ522_HT1793_sw?$pdp_sw20$"
+    }
+  },
+
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "brown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "darkBrown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2142?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "black": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "NEW COLOR",
+    "title": "Single-pleat 10-wale corduroy pant",
+    "price": "INR 17,535",
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2142_sw?$pdp_sw20$",
+      "black": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133_sw?$pdp_sw20$",
+      "voilet": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139_sw?$pdp_sw20$"
+    }
+  },
+
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BJ499_DM6384_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BJ499_DM6384?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "white": "https://www.jcrew.com/s7-img-facade/BI526_DM6381?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "title": "Classic Straight-fit jean in six-year wash",
+    "price": "INR 17,765",
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/BJ499_DM6384_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BI526_DM6381_sw?$pdp_sw20$"
+    }
+  },
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BJ705_YD1737_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "white": "https://www.jcrew.com/s7-img-facade/BJ705_YD2571?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "black": "https://www.jcrew.com/s7-img-facade/BM634_YD2125?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "red": "https://www.jcrew.com/s7-img-facade/BJ705_YD2124?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "blackWhite": "https://www.jcrew.com/s7-img-facade/BF792_YD2123?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "blue": "https://www.jcrew.com/s7-img-facade/BJ706_YD1962?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BJ706_PT2263?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "yellow": "https://www.jcrew.com/s7-img-facade/BF792_YD1547?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "FALL LOOKBOOKEW",
+    "title": "Secret Wash cotton poplin shirt",
+    "price": "INR 10,151",
+    "variety": "Classic, Slim, Slim Untucked, Tall",
+    "iconColor": {
+      "white": "https://www.jcrew.com/s7-img-facade/BJ705_YD2571_sw?$pdp_sw20$",
+      "black": "https://www.jcrew.com/s7-img-facade/BF792_YD2122_sw?$pdp_sw20$",
+      "red": "https://www.jcrew.com/s7-img-facade/BJ705_YD2124_sw?$pdp_sw20$",
+      "blackWhite": "https://www.jcrew.com/s7-img-facade/BF792_WX2555_sw?$pdp_sw20$",
+      "blue": "https://www.jcrew.com/s7-img-facade/BJ706_YD1962_sw?$pdp_sw20$",
+      "color1": "https://www.jcrew.com/s7-img-facade/BJ706_PT2263_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BF792_YD1547_sw?$pdp_sw20$"
+    }
+  },
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/79438_PP2015?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/79438_PP2015?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "grey": "https://www.jcrew.com/s7-img-facade/79438_GY6461?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "BEST SELLER",
+    "title": "Unisex 1990 MacAlister boot in suede",
+    "price": "INR 21,545",
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/79438_PP2015_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/79438_GY6461_sw?$pdp_sw20$"
+    }
+  },
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BJ330_GR6247_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "green": "https://www.jcrew.com/s7-img-facade/BJ330_GR6247?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "brown": "https://www.jcrew.com/s7-img-facade/BJ330_BR5392?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BJ330_BL8133?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "title": "Pique fleece collared sweatshirt",
+    "price": "INR 14,796",
+
+    "iconColor": {
+      "color2": "https://www.jcrew.com/s7-img-facade/BJ330_GR6247_sw?$pdp_sw20$",
+      "color1": "https://www.jcrew.com/s7-img-facade/BJ330_BR5392_sw?$pdp_sw20$",
+      "black": "https://www.jcrew.com/s7-img-facade/BJ330_BL8133_sw?$pdp_sw20$"
+    }
+  },
+
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BJ318_YL5622?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BJ318_YL5622?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "green": "https://www.jcrew.com/s7-img-facade/BJ318_GR5673?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "blue": "https://www.jcrew.com/s7-img-facade/BJ318_BL8133?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "NEW",
+    "title": "Cotton beanie",
+    "price": "INR 6,782",
+
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/BJ318_YL5622_sw?$pdp_sw20$",
+      "green": "https://www.jcrew.com/s7-img-facade/BJ318_GR5673_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BJ318_BL8133_sw?$pdp_sw20$"
+    }
+  },
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "brown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2142?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "black": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "voilet": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "title": "Single-pleat 10-wale corduroy",
+    "price": "INR 17,428",
+    "iconColor": {
+      "brown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147_sw?$pdp_sw20$",
+      "color1": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2142_sw?$pdp_sw20$",
+      "black": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139_sw?$pdp_sw20$"
+    }
+  },
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BJ781_WZ2140_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "brown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "darkBrown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2142?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "black": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "FALL LOOKBOOK",
+    "title": "Wallace & Barnes corduroy painter pant",
+    "price": "INR 18,905",
+    "iconColor": {
+      "voilet": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139_sw?$pdp_sw20$",
+      "color1": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147_sw?$pdp_sw20$",
+      "darkBrown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2142_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133_sw?$pdp_sw20$"
+    }
+  },
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BJ067_BK0001_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BJ067_WZ2240?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "greenBlack": "https://www.jcrew.com/s7-img-facade/BJ067_BK0001?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "NEW",
+    "title": "Nordic quilted puffer jacket with PrimaLoft",
+    "price": "INR 40,824",
+
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/BJ067_WZ2240_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BJ067_BK0001_sw?$pdp_sw20$"
+    }
+  },
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "brown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "darkBrown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2142?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "black": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "NEW",
+    "title": "Single-pleate 10-wale corduroy pant",
+    "price": "INR 17,066",
+
+    "iconColor": {
+      "brown": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2147_sw?$pdp_sw20$",
+      "color1": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2142_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/AQ998_WZ2133_sw?$pdp_sw20$",
+      "voilet": "https://www.jcrew.com/s7-img-facade/AQ998_PR0139_sw?$pdp_sw20$"
+    }
+  },
+
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BE900_RD5926_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "brown": "https://www.jcrew.com/s7-img-facade/BE900_RD5926?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BE900_GR5673?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "black": "https://www.jcrew.com/s7-img-facade/BE900_BL8133?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+
+    "title": "Cotton milano-stitch hooded sweater",
+    "price": "INR 18,657",
+    "iconColor": {
+      "color1": "https://www.jcrew.com/s7-img-facade/BE900_RD5926_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BE900_GR5673_sw?$pdp_sw20$",
+      "black": "https://www.jcrew.com/s7-img-facade/BE900_BL8133_sw?$pdp_sw20$"
+    }
+  },
+
+  {
+    "productColor": {
+      "landingImage": "https://www.jcrew.com/s7-img-facade/BJ117_RD6108?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=280&hei=280",
+      "red": "https://www.jcrew.com/s7-img-facade/BJ117_RD6108?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "hoverImage1": "https://www.jcrew.com/s7-img-facade/BJ117_PP3514?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "brown": "https://www.jcrew.com/s7-img-facade/BJ117_BR5392?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+      "black": "https://www.jcrew.com/s7-img-facade/BJ117_BL8934?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309"
+    },
+    "collection": "NEW",
+    "title": "Hentage wool-blend baseball cap",
+    "price": "INR 7,467",
+
+    "iconColor": {
+      "red": "https://www.jcrew.com/s7-img-facade/BJ117_RD6108_sw?$pdp_sw20$",
+      "redGreen": "https://www.jcrew.com/s7-img-facade/BJ117_PP3514_sw?$pdp_sw20$",
+      "color1": "https://www.jcrew.com/s7-img-facade/BJ117_BR5392_sw?$pdp_sw20$",
+      "color2": "https://www.jcrew.com/s7-img-facade/BJ117_BL8934_sw?$pdp_sw20$"
+    }
+  }
+]

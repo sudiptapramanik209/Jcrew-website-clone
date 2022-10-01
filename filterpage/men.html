@@ -7,7 +7,7 @@
 
 
     
-    <title>J.Crew: Clothes, Shoes & Accessories For Women, Men & Kids</title>
+    <title>Men's Clothing | J.Crew: Clothes, Shoes & Accessories For Women, Men & Kids</title>
     <link
       rel="icon"
       type="image/x-icon"
@@ -74,18 +74,33 @@
       </div>
 
       <!-- show filter-->
-      <div>
-        <select id="showFilter">
-          <option value="Featured">Featured</option>
-          <option value="Low-High">Price: Low - High</option>
-          <option value="High-Low">Price: High - Low</option>
-          <option value="TopRated">Top Rated</option>
-          <option value="NewArrival">New Arrival</option>
-        </select>
+    <div id="filter-section">
+        <div>
+            <select class="showFilter">
+              <option value="Featured">Show Filters</option>
+              <option value="Low-High">Price: Low - High</option>
+              <option value="High-Low">Price: High - Low</option>
+              <option value="TopRated">Top Rated</option>
+              <option value="NewArrival">New Arrival</option>
+            </select>
+        </div>
+        <div>
+            <select class="showFilter">
+              <option value="Featured">Featured</option>
+              <option value="Low-High">Price: Low - High</option>
+              <option value="High-Low">Price: High - Low</option>
+              <option value="TopRated">Top Rated</option>
+              <option value="NewArrival">New Arrival</option>
+            </select>
+          </div>
+    </div>
+
+
+      <div id="product-container">
+      
       </div>
     </div>
 
-   
     <div id="connects">
           <div>
             <a href="#"><i class="fa-brands fa-twitter"></i>@jcew_help</a>
@@ -100,7 +115,11 @@
 </html>
 <script type="module" src="../index.js"></script>
 
-<script src="../sign-in/sign_in.js"></script>
+<script src="./men.js"></script>
+
+<scrip src="../sign-in/sign_in.js"></script>
+
+
 
 
 
