@@ -1,0 +1,131 @@
+#navbar{
+    height: 60px;
+    border: 1px solid red;
+}
+#ques{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#women{
+    border-top: 1px solid rgb(212, 210, 210);
+    /* border: 1px solid red; */
+    width:80%;
+    height:1000px;
+    margin: auto;
+}
+#getcatg{
+    margin-bottom: 2%;
+}
+#getcatg>a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#main{
+    display: flex;
+}
+#main>img{
+    width: 660px;
+    height: 650px;
+}
+#details{
+    margin-left: 2%;
+    margin-top:-1%;
+}
+#color{
+    display: flex;
+   
+}
+#color>.color_1{
+    margin-right: 5%;
+    width:12%;
+    height: 35px;
+    color: red;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: red;
+}
+#color>.color_2{
+    margin-right: 5%;
+    width:12%;
+    height: 35px;
+    color: red;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: #e4dbc0 ;
+}
+#color>.color_3{
+    margin-right: 5%;
+    width:12%;
+    height: 35px;
+    color: red;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color:whitesmoke ;
+}
+#color>.color_4{
+    width:12%;
+    height: 35px;
+    color: red;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color:black ;
+}
+#btn>button{
+    /* width:50%; */
+    font-size: 20px;
+    padding: 5%;
+    background-color: white;
+    border: 1px solid rgb(168, 163, 163);
+    
+}
+#btn{
+    width:200%;
+    /* border: 1px solid red; */
+    display: grid;
+    gap:10px;
+    grid-template-columns: repeat(4,15%);
+    
+}
+#price{
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn>.avl:hover{
+    border: 1px solid rgb(97, 93, 93);
+    cursor: pointer;
+    /* background-color: whitesmoke; */
+}
+#quan{
+    display: flex;
+}
+#quan>select{
+    height: 30px;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+#bag{
+    width:90%;
+    padding: 2%;
+    font-size: 16px;
+    background-color: black;
+    color: whitesmoke;
+    font-weight: 700;
+}
+#bag_btn>#heart{
+    border: 1px solid rgb(167, 161, 161);
+    margin-left: 5%;
+    padding: 2%;
+}
+#bag_btn{
+    display: flex;
+}
+ul{
+    font-size: 20px;
+    font-weight: bold;
+}
+li{
+    margin-left: 12%;
+    margin-bottom: 1%;
+}
