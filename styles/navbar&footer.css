@@ -18,7 +18,7 @@ h1 {
   top: 0;
   width: 100%;
   height: 60px;
-  overflow:visible;
+  overflow: visible;
   z-index: 1;
   /* height: 60px; */
   color: rgb(85, 81, 81);
@@ -77,8 +77,8 @@ h1 {
   margin-right: 5%;
   border: 1px solid black;
 }
-#icon{
-  width:10%;
+#icon {
+  width: 10%;
 }
 
 #search {
@@ -126,6 +126,7 @@ input:focus {
   margin-left: 5%;
   /* border: 1px solid red; */
   display: flex;
+  font-size: 13px;
   /* height: 500px; */
 }
 #footer_right {
@@ -198,7 +199,7 @@ input:focus {
   color: rgb(148, 139, 139);
   margin-top: -1%;
 }
-#cart{
+#cart {
   cursor: pointer;
 }
 /* .dropdown {
@@ -209,6 +210,7 @@ input:focus {
 #new {
   /* display:flex; */
   width: 100%;
+  font-size: 13px;
 }
 #temp {
   justify-content: space-between;
@@ -239,11 +241,11 @@ input:focus {
     display: flex;
     width:100%; */
   /* margin-top: 20%;  */
-   /* margin-bottom: 30%;  */
-    margin-left: -47%;
-    font-size: 20px;
-    padding-right: 50%;
-    /* width: 100%; */
+  /* margin-bottom: 30%;  */
+  margin-left: -47%;
+  font-size: 20px;
+  padding-right: 50%;
+  /* width: 100%; */
 
   /* background-color: white;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
@@ -286,7 +288,7 @@ input:focus {
 /* Show the dropdown menu on hover */
 .dropdown-content {
   position: absolute;
-  
+
   /* width:100%; */
   margin-top: 3%;
   margin-right: 1500px;
@@ -306,8 +308,6 @@ input:focus {
         left:-100px; */
 }
 
-
-
 p {
   cursor: pointer;
 }
@@ -319,7 +319,7 @@ h3 {
 #footer-section {
   margin-top: -48px;
 }
-#sign_btn{
+#sign_btn {
   /* background-color: black;
   color: whitesmoke; */
   border: none;

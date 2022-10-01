@@ -36,8 +36,8 @@ body {
 #main1 {
   margin: auto;
   /* border: 1px solid red; */
-  width: 84%;
-  height: 800px;
+  width: 100%;
+  height: 700px;
   margin-bottom: 40px;
 }
 #main1 > a > img {
@@ -48,12 +48,12 @@ body {
 #main1 > div {
   font-family: "Abyssinica SIL";
   position: absolute;
-  right: 16%;
-  top: 47%;
+  right: 9%;
+  top: 65%;
   color: #fff;
 }
 #main1 > div > p {
-  font-size: 73px;
+  font-size: 63px;
   text-align: center;
 }
 #main1 > div > p ~ p {
@@ -80,7 +80,7 @@ body {
   display: flex;
   flex-direction: column;
   /* border: 1px solid green; */
-  width: 63%;
+  width: 87%;
   height: auto;
   margin: auto;
   margin-bottom: 60px;
@@ -107,7 +107,7 @@ body {
   position: absolute;
   text-align: center;
   color: #fff;
-  transform: translate(12%, 40%);
+  transform: translate(9%, 30%);
 }
 #pic1 > p {
   font-size: 53px;
@@ -148,7 +148,7 @@ body {
   /* height: 100%; */
   position: absolute;
   text-align: center;
-  transform: translate(34%, 12%);
+  transform: translate(42%, 12%);
 }
 #pic3 > p {
   /* width: 25%; */
@@ -175,12 +175,12 @@ body {
   position: absolute;
   text-align: center;
   color: #fff;
-  transform: translate(2%, 100%);
-  margin-top: 118px;
+  transform: translate(11%, 100%);
+  margin-top: 180px;
 }
 #pic4 > p {
-  width: 80%;
-  font-size: 42px;
+  /* width: 80%; */
+  font-size: 35px;
   color: #fff;
   margin: auto;
   margin-top: -10px;
@@ -222,8 +222,8 @@ body {
 
 #main3 {
   /* border: 1px solid red; */
-  width: 83%;
-  height: 510px;
+  width: 100%;
+  height: 440px;
   margin: auto;
   cursor: pointer;
   margin-bottom: 10px;
@@ -235,12 +235,12 @@ body {
 }
 
 #main3-text {
-  width: 15%;
+  width: 20%;
   /* height: 100%; */
   position: absolute;
   text-align: center;
   color: #fff;
-  transform: translate(295%, 18%);
+  transform: translate(263%, 13%);
 }
 #main3-text > p {
   font-family: "freight-big-pro", Times, serif;
@@ -259,7 +259,7 @@ body {
   font-size: 15px;
   text-align: center;
   text-decoration: none;
-  border-bottom: 2px solid #666;
+  border-bottom: 2px solid #000000;
   padding: 5px 0px;
   font-weight: 600;
   margin: auto;
@@ -270,19 +270,19 @@ body {
 #main4 {
   display: flex;
   /* border: 1px solid red; */
-  width: 53%;
-  height: 160px;
+  width: 75%;
+  height: 110px;
   margin: auto;
   justify-content: center;
   align-items: center;
   gap: 10px;
-  /* margin-right: 50px; */
+  margin-bottom: 20px;
 }
 #main4 > #text {
   font-family: "freight-big-pro", Times, serif;
   /* border: 1px solid green; */
   width: 33%;
-  font-size: 36px;
+  font-size: 32px;
   height: 60px;
   margin: auto;
   display: flex;
@@ -320,12 +320,13 @@ body {
   display: flex;
   flex-direction: column;
   /* border: 1px solid green; */
-  width: 83%;
+  width: 100%;
   background-color: #cad0dd;
   height: auto;
   margin: auto;
   margin-top: 10px;
   margin-bottom: 90px;
+  /* height: 800px; */
 }
 
 #main5 > #section1 {
@@ -337,8 +338,8 @@ body {
 }
 
 #section1 > img {
-  width: 267px;
-  height: 265px;
+  width: 217px;
+  height: 215px;
 }
 
 #section1 > a {
@@ -351,7 +352,7 @@ body {
   padding: 13px 28px;
   font-weight: 600;
   margin: auto;
-  transform: translate(112%, 260%);
+  transform: translate(85%, 260%);
 }
 
 #section2 {
@@ -382,17 +383,18 @@ body {
   margin-bottom: 10px;
 }
 #section2 > div > p ~ p {
-  width: 88%;
+  /* width: %; */
   font-family: "freight-big-pro", Times, serif;
   margin-top: 0;
-  font-size: 35px;
+  font-size: 30px;
   color: #000000 !important;
+  margin-bottom: -40px;
 }
 
 #section2 > div > a {
   font-family: Arial, Helvetica, sans-serif;
   color: #000000;
-  font-size: 16px;
+  font-size: 14px;
   text-decoration: none;
   border-bottom: 2px solid #000000;
   padding: 5px 0px;
@@ -404,8 +406,9 @@ body {
 #main5 > h1 {
   font-family: "freight-big-pro", Times, serif;
   margin-left: 10%;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: lighter;
+  color: #000000;
 }
 
 #section3 {
@@ -433,7 +436,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   color: #666;
-  margin-bottom: 10px;
+  margin-bottom: -40px;
 }
 
 #section3 > div > a {
@@ -451,7 +454,7 @@ body {
 /* <!-- main-6 --> */
 #main6 {
   /* border: 1px solid red; */
-  width: 80%;
+  width: 98%;
   height: 370px;
   margin: auto;
   margin-bottom: 60px;
@@ -475,10 +478,10 @@ body {
 }
 .heart {
   position: absolute;
-  width: 22px;
-  height: 21px;
+  width: 20px;
+  height: 19px;
   top: 10px;
-  left: 190px;
+  left: 170px;
 }
 .image {
   display: block;
@@ -507,9 +510,9 @@ body {
 
 .text {
   /* border: 1px solid; */
-  width: 90%;
+  width: 100%;
   color: #000000;
-  font-size: 14px;
+  font-size: 12px;
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
   top: 25%;
@@ -519,18 +522,18 @@ body {
   transform: translate(-50%, -50%);
   text-align: left;
   margin: 10px 5px;
-  padding: 10px 5px;
+  padding: 0px 5px;
   font-weight: 600;
 }
 .price {
   /* border: 1px solid; */
   width: 90%;
   color: #000000;
-  font-size: 13px;
+  font-size: 12px;
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
-  top: 25%;
-  left: 51%;
+  top: 22%;
+  left: 46%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, 50%);
@@ -545,9 +548,9 @@ body {
 #main8 {
   /* border: 1px solid red; */
   border-bottom: 1px solid rgb(210, 207, 207);
-  height: 435px;
+  height: 400px;
   width: 100%;
-  padding-bottom: 25px;
+  /* padding-bottom: 25px; */
   margin-top: 80px;
 }
 
@@ -556,12 +559,13 @@ body {
   font-family: "freight-big-pro", Times, serif;
   font-weight: lighter;
   font-size: 34px;
+  margin-bottom: 40px;
 }
 #main8 > div {
   display: flex;
   /* border: 1px solid green; */
   width: 98%;
-  height: 80%;
+  height: 60%;
   margin: auto;
 }
 
@@ -583,7 +587,7 @@ body {
 .products > a {
   font-family: Arial, Helvetica, sans-serif;
   color: #000000;
-  font-size: 12px;
+  font-size: 11px;
   text-decoration: none;
   border-bottom: 2px solid #000000;
   padding: 8px 0px;
@@ -593,12 +597,12 @@ body {
 #connects {
   /* border: 1px solid red; */
   width: 100%;
-  height: 50px;
+  height: 35px;
 }
 
 #connects > div {
   /* border: 1px solid blue; */
-  width: 25%;
+  width: 30%;
   display: flex;
   margin: auto;
   margin-top: 8px;
