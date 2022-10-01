@@ -1,9 +1,10 @@
 #mid_container {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   width: 100%;
-  height: 1200px;
+  height: auto;
   margin: auto;
   margin-top: 61px;
+  border-bottom: 1px solid #666;
 }
 
 #first-text {
@@ -21,26 +22,104 @@
 
 #heading {
   display: block;
-  margin-top: 59px;
+  margin-top: 55px;
   text-align: center;
-  border: 1px solid red;
-  font-size: 49px;
+  /* border: 1px solid red; */
+  font-size: 45px;
   font-family: "freight-big-pro", Times, serif;
   font-weight: lighter;
-  letter-spacing: 0.3px;
+  /* letter-spacing: 0.3px; */
 }
 #heading > p {
-  font-size: 76px;
+  font-size: 70px;
   margin: 0;
 }
 
-#showFilter {
-  width: 8%;
+#filter-section {
+  display: flex;
+  width: 100%;
+  /* border: 1px solid red; */
+  padding: 10px 40px;
+  gap: 120px;
+}
+
+.showFilter {
   height: 36px;
   font-size: 13px;
   font-weight: bold;
   border-color: rgb(96, 96, 96);
 }
-#showFilter > option {
+.showFilter > option {
   height: 36px;
+}
+
+#product-container {
+  /* border: 1px solid red; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(5, 520px);
+  width: 96%;
+  margin: auto;
+  margin-top: 40px;
+  height: auto;
+  gap: 25px;
+  margin-bottom: 50px;
+}
+#product-container > div {
+  /* border: 1px solid blue; */
+  display: flex;
+  flex-direction: column;
+}
+#product-container > div:hover {
+  height: 530px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#product-container > div > #landingImage {
+  /* border: 1px solid black; */
+  display: flex;
+  width: 95%;
+  height: 70%;
+  margin: auto;
+  margin-top: 8px;
+}
+
+#product-container > div > #details_div {
+  /* border: 1px solid blue; */
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  height: 25%;
+  margin: auto;
+}
+
+#details_div h5 {
+  margin: 8px 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: lighter;
+}
+#details_div p {
+  margin: 8px 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+#product-container #iconColor {
+  /* border: 1px solid red; */
+  width: 100%;
+  height: 50%;
+  display: flex;
+  margin: auto;
+  gap: 30px;
+}
+#product-container #iconColor > img {
+  height: 60%;
+  border-radius: 50%;
+  margin: 10px -10px 10px 8px;
+  padding: 2px;
+}
+
+#product-container #iconColor > img:hover {
+  border: 1px solid red;
 }
