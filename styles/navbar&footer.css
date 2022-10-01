@@ -126,7 +126,6 @@ input:focus {
   margin-left: 5%;
   /* border: 1px solid red; */
   display: flex;
-  font-size: 13px;
   /* height: 500px; */
 }
 #footer_right {

@@ -1,53 +1,46 @@
-#promoheader{
-    
-    height: 60px;
-    width: 100%;
-    margin: auto;
-    display:flex;
+#mid_container {
+  border: 1px solid blue;
+  width: 100%;
+  height: 1200px;
+  margin: auto;
+  margin-top: 61px;
 }
-#promoheader>span{
-    text-align:center;
-    align-items:center;
-    margin:auto;
-    vertical-align:center;
+
+#first-text {
+  display: flex;
+  border-bottom: 1px solid rgb(210, 207, 207);
+  font-size: 13px;
+  justify-content: center;
+  align-items: center;
+  color: rgb(96, 96, 96);
+  height: 70px;
+  margin: auto;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
 }
-#upperbuttons{
-    height:60px;
-    width: 95%;
-    font-size: 15px;
-    margin: auto;
-    text-decoration: none;
+
+#heading {
+  display: block;
+  margin-top: 59px;
+  text-align: center;
+  border: 1px solid red;
+  font-size: 49px;
+  font-family: "freight-big-pro", Times, serif;
+  font-weight: lighter;
+  letter-spacing: 0.3px;
 }
-#upperbuttons>a{
-    text-decoration: none;
-    color:black;
+#heading > p {
+  font-size: 76px;
+  margin: 0;
 }
-#bigletters{
-    height: 134px;
-    width: 95%;
-    margin: auto;
-    text-align: center;
+
+#showFilter {
+  width: 8%;
+  height: 36px;
+  font-size: 13px;
+  font-weight: bold;
+  border-color: rgb(96, 96, 96);
 }
-#letterbox{
-    height: 134px;
-    width: 24.5%;
-    margin: auto;
-    font-size: 74.8px;
-    letter-spacing: 0.3px;
-    line-height: 67.34px;
-}
-#october{
-    font-size: 49.78px;
-    line-height: 44.8px;
-}
-#filsortbtnwrapper{
-    border: 1px solid red;
-    height:36px;
-    width: 95%;
-    margin: auto;
-    display:flex;
-}
-#sort{
-    height:36px;
-    width:171px;
+#showFilter > option {
+  height: 36px;
 }
