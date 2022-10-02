@@ -1,7 +1,7 @@
 const navbar = () => {
-  return `   <h1>J.CREW</h1>
+  return `   <h1><a href="./index.html">J.CREW</a></h1>
   <div class="dropdown">
-    <a class="drop_btn" href="">New</a>
+    <a class="drop_btn" href="./index.html">New</a>
     <div class="dropdown-content">
       <div id="new">
         <h3>Shop New Arrivals</h3>
@@ -13,10 +13,10 @@ const navbar = () => {
     </div>
   </div>
   <div class="dropdown">
-    <a class="drop_btn" href="">Women</a>
+    <a class="drop_btn" href="./filterpage/women.html">Women</a>
     <div class="dropdown-content">
       <div id="new">
-        <h3>Women</h3>
+        <h3><a href="./filterpage/women.html">Women</a></h3>
         <p>New Arrivals</p>
         <p>Best Seller</p>
         <p>Top Rate</p>
@@ -28,7 +28,7 @@ const navbar = () => {
     </div>
   </div>
   <div class="dropdown">
-    <a class="drop_btn" href="">Men</a>
+    <a class="drop_btn" href="../filterpage/men.html">Men</a>
     <div class="dropdown-content">
       <div id="new">
         <h3>Men</h3>
@@ -70,7 +70,7 @@ const navbar = () => {
     </div>
   </div>
   <div class="dropdown">
-    <a class="drop_btn" href="">Home</a>
+    <a class="drop_btn" href="../index.html">Home</a>
     <div class="dropdown-content">
       <div id="new">
         <h3>Shop Home</h3>
@@ -122,10 +122,7 @@ const navbar = () => {
     <h3 id="sign">Sign In</h3>
     </button>
     
-    <img id="cart" src="./styles/img/shopping-bag.gif" alt="" srcset="" />
-    <!-- <i class="fa-sharp fa-solid fa-bag-shopping"></i>
-        <i class="fa-regular fa-bag-shopping"></i>
-        <i class="fa-regular fa-bag-shopping"></i> -->
+    <a id="cart" href="./checkout/checkout.html"><img id="cart1" src="../styles/img/shopping-bag.gif" alt="" srcset="" /></a>
   </div>`;
 };
 

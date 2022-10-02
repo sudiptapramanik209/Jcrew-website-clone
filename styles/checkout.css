@@ -1,41 +1,46 @@
-*{
+* {
     left: 0;
     right: 0;
     background-color: #F8F8F8;
 }
 
-#checkoutPage{
+#checkoutPage {
 
-   width: 80%;
-   height: auto;
-   margin: auto;
-   display: flex;
-   margin-top: 22px;
-   font-size: 14px;
-   letter-spacing: 1px;
-   font-family: Arial, Helvetica, sans-serif;
-  
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 70px;
+    margin-bottom: 20px;
+
+
 }
-#bagDetails{
- 
+
+#bagDetails {
+
     width: 642px;
     height: 436px;
     margin: 0 24px 0 0;
 
     margin: auto;
-   
+
 }
-#checkOut{
-  
+
+#checkOut {
+
     width: 320px;
     height: 436px;
-  
+
     margin: auto;
-   
-   
+
+
 }
-.bagCount{
- 
+
+.bagCount {
+
     width: 100%;
     height: 50px;
     align-items: center;
@@ -45,45 +50,52 @@
     background-color: white;
     margin-bottom: 1px;
 }
-.bagDiv{
- 
-    display: flex;  
+
+.bagDiv {
+
+    display: flex;
     align-items: center;
     margin-left: 10px;
     height: 100%;
     background-color: white;
-   
-}
-.bagDiv>h3{
-    background-color: white;
-}
-.count{
-     margin: -2px 0 0 8px; 
 
-    
 }
-.bagCount>p{
+
+.bagDiv>h3 {
     background-color: white;
 }
-.bagCount>p>a{
+
+.count {
+    margin: -2px 0 0 8px;
+
+
+}
+
+.bagCount>p {
+    background-color: white;
+}
+
+.bagCount>p>a {
     color: blue;
     text-decoration: none;
     margin-right: 10px;
     background-color: white;
     cursor: pointer;
 }
-.list{
+
+.list {
     display: flex;
     width: 100%;
     margin-bottom: 2px;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
-   
+
     justify-content: space-between;
     align-items: center;
     font-size: 12px;
 }
-.item{
-  
+
+.item {
+
     text-align: center;
     align-items: center;
     height: 100%;
@@ -91,79 +103,89 @@
     color: grey;
 
 }
-.Qty_P{
-  
+
+.Qty_P {
+
     display: flex;
     width: 25%;
     color: grey;
     justify-content: space-between;
     align-items: center;
     margin-right: 10px;
-   
-  
+
+
 
 }
 
-.disc{
+.disc {
     display: flex;
-    
+
     width: 100%;
     background-color: white;
     height: 152px;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
     justify-content: space-between;
 }
-.disc>div:nth-child(1){
- 
+
+.disc>div:nth-child(1) {
+
     background-color: white;
     display: flex;
     width: auto;
     height: 100%;
 }
-.img{
+
+.img {
     border: 1px;
-    border-style: dotted; 
+    border-style: dotted;
     width: 130px;
     height: 130px;
     margin: 8px 0 0 8px;
 }
-#img{
+
+#img {
     width: 100%;
     cursor: pointer;
 }
 
-#heartIcon{
-    position: relative; 
+#heartIcon {
+    position: relative;
     background: none;
     left: 96px;
-    top: -122px   ;
-   width: 20px;
-   height: 20px;
-   font-size: 35px;
-   cursor: pointer;
-   
+    top: -122px;
+    width: 20px;
+    height: 20px;
+    font-size: 35px;
+    cursor: pointer;
+
 }
-.pDetails{
-    
+
+.pDetails {
+
     background-color: white;
     height: auto;
-    margin:0 0 0 10px ;
+    margin: 0 0 0 10px;
 }
-.pDetails>h4{
+
+.pDetails>h4 {
     margin: 8px 0 8px 0;
     background-color: white;
 }
-.promo{
-color: red;
+
+.promo {
+    color: red;
 }
-.pDetails>p{
+
+.pDetails>p {
     margin: 5px 0 5px 0;
     background-color: white;
 }
-.dTags{
+
+.dTags {
     background-color: white;
 }
-.dTags>a{
+
+.dTags>a {
     margin-right: 20px;
     color: black;
     background-color: white;
@@ -172,16 +194,17 @@ color: red;
 
 
 
-.QPdetails{
+.QPdetails {
     display: flex;
     text-align: right;
-    
+
     background-color: white;
     width: 32%;
     margin: 0 10px 0 0;
     justify-content: space-between;
 }
-.buttons{
+
+.buttons {
     border: 1px solid grey;
     display: flex;
     height: 28px;
@@ -191,22 +214,25 @@ color: red;
     margin-top: 10px;
     align-items: center;
 }
-.buttons>button{
+
+.buttons>button {
     border: none;
     cursor: pointer;
     font-size: 20px;
 }
 
-.QPdetails>div:nth-child(2){
+.QPdetails>div:nth-child(2) {
     font-weight: bold;
     background-color: white;
 }
-.QPdetails>div:nth-child(2)>p{
-      margin-bottom: -8px;
+
+.QPdetails>div:nth-child(2)>p {
+    margin-bottom: -8px;
     background-color: white;
 }
-.saved{
-   
+
+.saved {
+
     width: 100%;
     height: 50px;
     display: flex;
@@ -214,11 +240,13 @@ color: red;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
     background-color: white;
 }
-.saved>h3{
+
+.saved>h3 {
     background-color: white;
     margin-left: 10px;
 }
-.savedBox{
+
+.savedBox {
     border: 1px solid transparent;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
     width: 99.7%;
@@ -227,16 +255,17 @@ color: red;
     margin-top: 1px;
     text-align: center;
 }
-.savedBox>p{
-   
+
+.savedBox>p {
+
     margin-top: 50px;
     font-size: 17px;
-    background-color: white ;
+    background-color: white;
 }
 
 
 
-.subtotal{
+.subtotal {
     display: flex;
     justify-content: space-between;
     font-weight: bold;
@@ -244,17 +273,19 @@ color: red;
 }
 
 
-.estimatedTotal{
+.estimatedTotal {
     display: flex;
     justify-content: space-between;
     font-weight: bold;
     font-size: 15px;
     margin: -15px 0 -25px 0;
 }
-.shipping{
-color: grey;
+
+.shipping {
+    color: grey;
 }
-.checkoutBtn{
+
+.checkoutBtn {
     background-color: black;
     color: white;
     text-align: center;
@@ -265,26 +296,29 @@ color: grey;
     margin-top: 5px;
     cursor: pointer;
 }
-.para{
-color: grey;
-font-size: 12px;
-font-family: Arial, Helvetica, sans-serif;
-}
-hr{
-    margin-top: 15px;   
+
+.para {
+    color: grey;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#enterPromo{
+hr {
+    margin-top: 15px;
+}
+
+#enterPromo {
     height: 42px;
     border: 0.5px solid grey;
     width: 70%;
     background-color: white;
 }
-#promoBtn{
+
+#promoBtn {
     height: 46px;
     width: 24%;
-   border: none;
-    background-color:rgb(234, 234, 234);
+    border: none;
+    background-color: rgb(234, 234, 234);
     font-weight: bold;
     color: grey;
     margin-left: 7px;

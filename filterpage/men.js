@@ -59,7 +59,15 @@ function displayProduct(menData) {
     details_div.append(title, price, iconColor);
 
     data_div.append(landingImage, details_div);
+    data_div.addEventListener("click", function(){
+      showDetail(elem);
+  })
+    
 
     product_container.append(data_div);
   });
+}
+function showDetail(elem){
+  localStorage.setItem("details",JSON.stringify(elem));
+window.location.href="../details.html";
 }

@@ -107,6 +107,12 @@ input:focus {
   width: 10%;
   height: 10%;
   margin-left: 10%;
+  margin-top:-10%;
+  margin-bottom: -10%;
+}
+#cart1{
+  width:50%;
+  margin-top:20%;
 }
 #footer {
   /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
