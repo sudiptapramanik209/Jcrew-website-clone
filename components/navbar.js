@@ -122,7 +122,7 @@ const navbar = () => {
     <h3 id="sign">Sign In</h3>
     </button>
     
-    <a id="cart" href="./checkout/checkout.html"><img id="cart1" src="../styles/img/shopping-bag.gif" alt="" srcset="" /></a>
+    <a id="cart" href="./checkout/checkout.html"><img id="cart1" src="./styles/img/shopping-bag.gif" alt="" srcset="" /></a>
   </div>`;
 };
 
