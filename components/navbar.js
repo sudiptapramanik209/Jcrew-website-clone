@@ -16,7 +16,7 @@ const navbar = () => {
     <a class="drop_btn" href="./filterpage/women.html">Women</a>
     <div class="dropdown-content">
       <div id="new">
-        <h3><a href="./filterpage/women.html">Women</a></h3>
+        <h3>Women</h3>
         <p>New Arrivals</p>
         <p>Best Seller</p>
         <p>Top Rate</p>
