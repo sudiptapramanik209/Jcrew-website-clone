@@ -12,7 +12,12 @@ Live:https://calm-florentine-38a27c.netlify.app/
  - Login and SignUp
  - Products page
  
-
+# Team Members :
+### 1. [Sudipta Pramanik](https://github.com/sudiptapramanik209)
+### 2. [Rahul Dudka](https://github.com/dRahul97)
+### 3. [Sourav Kumar Sahu](https://github.com/Sourav-8269)
+### 4. [Sumit Sha](https://github.com/Sumit-Sha-DEV)
+### 5. [Omkar Chauhan](https://github.com/OmkarChauhan796)
 
 ## Screenshots
 
